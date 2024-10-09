@@ -1,4 +1,4 @@
-# NLP-AMILI
+# SMART APP
 
 ## Setup Instructions
 
